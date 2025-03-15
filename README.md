@@ -2,6 +2,8 @@
 
 **Hijaiyah World** is a simple and interactive drag-and-drop game designed to help users learn the Arabic Hijaiyah alphabet. Developed using **Lua** and **Solar2D**, the game offers an engaging way to familiarize oneself with the letters of the Arabic script.
 
+https://github.com/user-attachments/assets/ebc7df68-3f6e-43b7-8dec-21b534b2676e
+
 ## Features
 
 - **Interactive Learning:** Drag and drop the correct Hijaiyah letters to their corresponding positions.
